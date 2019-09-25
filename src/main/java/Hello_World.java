@@ -1,6 +1,6 @@
 package main.java;
 
-public class Hello_World {
+public class Task_1 {
 
     private String hello_world = "Hello World";
 
@@ -10,7 +10,7 @@ public class Hello_World {
 
     public static void main(String[] args){
 
-        Hello_World h_w = new Hello_World();
+        Task_1 h_w = new Task_1();
         h_w.getHello_world();
 
         System.out.println(h_w.getHello_world());
@@ -18,5 +18,6 @@ public class Hello_World {
         System.out.println(h_w.getHello_world());
         System.out.println(h_w.getHello_world());
         System.out.println(h_w.getHello_world());
+
     }
 }
